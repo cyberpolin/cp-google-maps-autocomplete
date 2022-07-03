@@ -1,0 +1,16 @@
+{
+  "name": "cp-google-maps-autocomplete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-native": "^0.69.1",
+    "styled-component": "^2.8.0"
+  }
+}
